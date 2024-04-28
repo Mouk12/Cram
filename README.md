@@ -1,1 +1,1 @@
-Repo for projects made for learning/interest
+Repo for projects made for learning
